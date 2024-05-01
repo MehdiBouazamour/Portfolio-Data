@@ -13,9 +13,9 @@
 N'hésitez pas à me contacter pour discuter de collaboration ou d'opportunités professionnelles passionnantes!
 
 
-# Projets
+# Projets :
 
-Projet UBM
+#Projet UBM
 
 Code : [UBM](https://github.com/MehdiBouazamour/UBM-BigQuery-Looker)
 
@@ -30,7 +30,7 @@ Resultats : Le client est très satisfait du résultat et souhaite un déploieme
 
 
 
-Projet FreeGliss WebScraping
+#Projet FreeGliss WebScraping
 
 Code : [FreeGliss](https://github.com/MehdiBouazamour/FreeGliss-WebScraping)
 
@@ -43,7 +43,7 @@ Technologie : Python, Pandas, Numpy, BeautifulSoup, requests, Matplotlib, Seabor
 
 
 
-Projet Ollist A/B Testing
+#Projet Ollist A/B Testing
 
 Code : [OLLIST A/B](https://github.com/MehdiBouazamour/Ollist-A-B-testing)
 
@@ -55,7 +55,7 @@ Technologie : Python, Pandas, Numpy, Spicy, Math, Missingo, Ydata_profiling, Bea
 
 
 
-Projet Analyse par API Netflix 
+#Projet Analyse par API Netflix 
 
 Code : [API Netflix](https://github.com/MehdiBouazamour/Analyse-par-une-API)
 
@@ -66,7 +66,7 @@ Technologie : Python, Json, Pandas, Numpy, BeautifulSoup, requests, Matplotlib, 
 
 
 
-Projet Ollist Analyse Python
+#Projet Ollist Analyse Python
 
 Code : [Ollist Analyse](https://github.com/MehdiBouazamour/Ollist-PYTHON)
 
@@ -77,7 +77,7 @@ Technologie : Python, Pandas, Numpy, Matplotlib, Seaborn
 
 
 
-Projet BlablaVoiture SQL
+#Projet BlablaVoiture SQL
 
 Code : [BlablaVoiture](https://github.com/MehdiBouazamour/BlablaVoiture-SQL)
 
@@ -88,7 +88,7 @@ Technologie : SQL
 
 
 
-Projet Delhi Market SQL
+#Projet Delhi Market SQL
 
 Code : [Delhi Market](https://github.com/MehdiBouazamour/Delhi-Market-SQL)
 
